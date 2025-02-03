@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baza Przepisów</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Baza Przepisów</h1>
+    <form id="addMealForm">
+      <h2>Dodaj Przepis</h2>
+      <input type="text" id="name" placeholder="Nazwa Posilku" required>
+      <input type="number" id="calories" placeholder="Kalorie" required>
+      <input type="date" id="date" required>
+      <input type="text" id="ingredients" placeholder="Składniki (oddzielone przecinkiem)">
+      <input type="number" id="servingSize" placeholder="Wielkość Porcji" required>
+      <button type="submit">Dodaj Przepis</button>
+    </form>
+    <h2>Przepisy</h2>
+    <table id="mealTable">
+      <thead>
+        <tr>
+          <th>Nazwa</th>
+          <th>Kalorie</th>
+          <th>Data</th>
+          <th>Składniki</th>
+          <th>Wielkość Porcji</th>
+          <th>Akcja</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Sałatka z kurczakiem",
+    "calories": 350,
+    "date": "2025-02-03T12:00:00Z",
+    "ingredients": ["Pierś z kurczaka", "Sałata", "Pomidor", "Ogórek", "Oliwa z oliwek"],
+    "servingSize": 1
+  },
+  {
+    "name": "Spaghetti Carbonara",
+    "calories": 750,
+    "date": "2025-02-03T13:00:00Z",
+    "ingredients": ["Spaghetti", "Boczek", "Jajko", "Ser parmezan", "Czarny pieprz"],
+    "servingSize": 1
+  },
+  {
+    "name": "Smażone warzywa",
+    "calories": 400,
+    "date": "2025-02-03T18:00:00Z",
+    "ingredients": ["Brokuły", "Marchew", "Papryka", "Tofu", "Sos sojowy", "Imbir", "Czosnek"],
+    "servingSize": 2
+  },
+  {
+    "name": "Burrito z wołowiną",
+    "calories": 600,
+    "date": "2025-02-03T20:00:00Z",
+    "ingredients": ["Mielona wołowina", "Tortilla", "Sałata", "Ser cheddar", "Kwaśna śmietana", "Salsa"],
+    "servingSize": 2
+  },
+  {
+    "name": "Grillowany łosoś",
+    "calories": 500,
+    "date": "2025-02-03T14:00:00Z",
+    "ingredients": ["Filet z łososia", "Cytryna", "Oliwa z oliwek", "Czosnek", "Rozmaryn"],
+    "servingSize": 1
+  },
+  {
+    "name": "Tacos z kurczakiem",
+    "calories": 450,
+    "date": "2025-02-03T19:30:00Z",
+    "ingredients": ["Pierś z kurczaka", "Skórka do taco", "Sałata", "Pomidor", "Ser cheddar", "Kwaśna śmietana"],
+    "servingSize": 3
+  },
+  {
+    "name": "Tost z serem",
+    "calories": 350,
+    "date": "2025-02-03T11:30:00Z",
+    "ingredients": ["Chleb", "Ser cheddar", "Masło"],
+    "servingSize": 1
+  },
+  {
+    "name": "Sałatka Cezar",
+    "calories": 320,
+    "date": "2025-02-03T15:00:00Z",
+    "ingredients": ["Sałata", "Sos Cezar", "Grzanki", "Ser parmezan", "Pierś z kurczaka (opcjonalnie)"],
+    "servingSize": 1
+  },
+  {
+    "name": "Kurczak Alfredo",
+    "calories": 800,
+    "date": "2025-02-03T16:00:00Z",
+    "ingredients": ["Pierś z kurczaka", "Fettucine", "Sos Alfredo", "Ser parmezan"],
+    "servingSize": 2
+  },
+  {
+    "name": "Pizza wegetariańska",
+    "calories": 600,
+    "date": "2025-02-03T17:00:00Z",
+    "ingredients": ["Ciasto do pizzy", "Sos pomidorowy", "Ser mozzarella", "Papryka", "Pieczarki", "Oliwki"],
+    "servingSize": 1
+  },
+  {
+    "name": "Naleśniki",
+    "calories": 400,
+    "date": "2025-02-03T09:00:00Z",
+    "ingredients": ["Mąka", "Jajko", "Mleko", "Proszek do pieczenia", "Syrop klonowy"],
+    "servingSize": 2
+  },
+  {
+    "name": "Sałatka jajeczna",
+    "calories": 300,
+    "date": "2025-02-03T10:00:00Z",
+    "ingredients": ["Jajko", "Majonez", "Musztarda", "Ogórki kiszone", "Papryka"],
+    "servingSize": 1
+  },
+  {
+    "name": "Zupa soczewicowa",
+    "calories": 400,
+    "date": "2025-02-03T12:30:00Z",
+    "ingredients": ["Soczewica", "Marchew", "Selera", "Cebula", "Pomidor", "Czosnek", "Bulion warzywny"],
+    "servingSize": 2
+  },
+  {
+    "name": "Krewetki z czosnkiem",
+    "calories": 500,
+    "date": "2025-02-03T14:30:00Z",
+    "ingredients": ["Krewetki", "Czosnek", "Cytryna", "Masło", "Pietruszka"],
+    "servingSize": 2
+  }
+]
