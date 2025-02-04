@@ -1,4 +1,4 @@
-Projekt wykonany przez studentów Społecznej Akademi Nauk na zaliczenie projwktu
+Projekt wykonany przez studentów Społecznej Akademi Nauk z grupy piątej na zaliczenie projektu
 Authors:
 @Giulio Sarnataro
 @Piotr Roman
